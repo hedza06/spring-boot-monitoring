@@ -9,7 +9,8 @@ Actuator endpoints let you monitor and interact with your application. Spring Bo
 endpoints and lets you add your own.
 
 ### Requirements
-- Docker CE installed locally
+- Docker CE installed
+- Docker Compose installed
 - Java 17 and Maven 3.X.X
 
 ### Running the project
