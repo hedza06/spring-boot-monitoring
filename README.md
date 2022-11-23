@@ -38,6 +38,10 @@ Bellow are some useful links that will help you create dashboard with different 
 - https://www.youtube.com/watch?v=4qpI4T6_bUw&ab_channel=SQL4automation
 - https://www.youtube.com/watch?v=h4Sl21AKiDg&ab_channel=TechWorldwithNana
 
+### Roadmap
+- Adding connection to local database and monitor connection
+- Create more Grafana Dashboards
+
 ### Contribution/Suggestions
 If someone is interested in contribution or have some suggestions please contact me on e-mail `hedzaprog@gmail.com`.
 It would be perfect if someone want to share Grafana Dashboards that are used for generating different metrics.
