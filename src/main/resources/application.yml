@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: monitor-app
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+info:
+  app:
+    name: "Monitoring App"
+    description: "Monitoring with Prometheus and Grafana"
+    version: "1.0.0"
